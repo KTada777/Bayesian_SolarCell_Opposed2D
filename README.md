@@ -12,7 +12,7 @@ Note that These Are Experimental Codes for the Purpose of Helping the Readers of
 03 Oct 2025:
 
 It is reported that codes in the notebooks no longer work due to the recent syntax change of PyMC.
-Amended version starting with "251003" has been uploaded.
+Amended versions starting with "251003" have been uploaded.
 Some old notebooks cannot be opened because of compatibility issues between GitHub and Colab notebooks.
 https://github.com/orgs/community/discussions/155944
 Notebooks containing "R1," which work around this issue, have been uploaded for viewing purposes only.
